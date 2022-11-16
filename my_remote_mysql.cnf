@@ -1,0 +1,6 @@
+database = "mysql_6369_schools"
+user = "henry"
+password = "dblastname_db_ondru_randu_moondru"
+host = "my02.winhost.com"
+port = 3306
+default-character-set = utf8
